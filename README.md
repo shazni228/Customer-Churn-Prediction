@@ -4,7 +4,7 @@ This repository contains code and documentation for a customer churn prediction 
 
 ## Presentation
 
-Refer to the [Presentation_Customer Churn Prediction.pdf](Presentation_Customer%20Churn%20Prediction.pdf) file for a detailed presentation of the project. The presentation covers the following topics:
+Refer to the Presentation file for a detailed presentation of the project. The presentation covers the following topics:
 
 1. Introduction
 2. Data Exploration and Preprocessing
